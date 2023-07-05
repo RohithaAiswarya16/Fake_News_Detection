@@ -1,5 +1,6 @@
 # CodeClause_Fake_News_Detection
-Project Name: Fake News Detection
+### Project Name: Fake News Detection
+
 Data analysis project to detect if a piece of news is real or fake
 
 DataSet: https://drive.google.com/file/d/1q5jpI5M1EA9x3YPrLupmiu3gffkmGlHj/view?usp=sharing
