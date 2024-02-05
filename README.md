@@ -15,32 +15,6 @@ This project focuses on developing a robust model to identify fake news articles
 - **Model Training and Evaluation:** Trained the chosen model using labeled datasets and evaluated its performance on a separate test set.
 - **Explanatory Analysis:** Conducted analyses to interpret the model's predictions and understand key factors influencing fake news detection.
 
-## Usage
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/fake-news-detection.git
-   ```
-
-2. Navigate to the project directory:
-
-   ```bash
-   cd fake-news-detection
-   ```
-
-3. Install dependencies:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-4. Run the detection script:
-
-   ```bash
-   python detect_fake_news.py
-   ```
-
 ## Dataset
 
 The dataset used for this project is [(https://drive.google.com/file/d/1q5jpI5M1EA9x3YPrLupmiu3gffkmGlHj/view?usp=sharing)].
